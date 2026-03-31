@@ -9,4 +9,4 @@ class Module {
 
 //123
 UPDATE
-upd
+upd123
